@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.bio-data {
+  margin: 20px;
+  padding: 20px;
+}
+
+.bio-data h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edu-background {
+  margin: 20px;
+  padding: 20px;
+}
+
+.edu-background h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.work-experience {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+}
+
+.skills {
+  margin: 20px;
+  padding: 20px;
+}
+
+.skills h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
